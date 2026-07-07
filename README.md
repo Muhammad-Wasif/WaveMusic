@@ -107,3 +107,4 @@ Exact dark theme matching YouTube Music:
 ---
 
 *Built with WPF + TagLibSharp for metadata reading.*
+
